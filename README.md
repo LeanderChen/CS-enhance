@@ -9,6 +9,7 @@ eng / [chs]() / [cht]()
 - arch
   - arch.linux
     - [Vi(m) Simple Handbook](src/arch.linux/vim-simple-handbook_eng.md)
+    - [Use_vim_as_IDE](src/arch.linux/Use_vim_as_IDE.md)
 - langs
 - maths
 - security

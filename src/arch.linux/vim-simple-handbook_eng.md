@@ -150,3 +150,9 @@ qaYp<C-a>q
 - type `<C-w>_`/`<C-w>|`: used to maximize current horizental/vertical split-screen
 - type `<C-w>+`/`<C-w>-`: used to increase/decrease size fo current screen
 - type `:help split`: used to refer split-screen help document
+- type `<C-w>w`/`<C-w>k`/`<C-w>j`/`<C-w>h`/`<C-w>l`: switch to next/top/bottom/left/right screen
+
+---
+## Refers:
+1. [简明VIM练级攻略](https://coolshell.cn/articles/5426.html) [陈皓著] - 中文简体  
+2. vimtutor [by ]
